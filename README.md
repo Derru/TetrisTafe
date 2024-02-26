@@ -1,5 +1,7 @@
 # Tetris
-```A very basic Tetris clone created inside java using JFrame as the main GUI interface```
+A very basic Tetris clone created inside java using JFrame as the main GUI interface
+
+Was created for a class back during Tafe
 
 ```Down Arrow``` - Makes the Tetris piece drop faster
 
